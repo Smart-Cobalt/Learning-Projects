@@ -1,0 +1,1 @@
+These are the learning projects I've done to better understand Python. I put them under CC-0 if you really want them for some reason, but most of them are simple tests of a feature. Sorry about the lack of comments!
